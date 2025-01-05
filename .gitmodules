@@ -1,0 +1,3 @@
+[submodule "themes/hugo-identity-theme"]
+path = themes/archie
+url = https://github.com/athul/archie
