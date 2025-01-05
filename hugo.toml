@@ -1,7 +1,39 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://blog.arluqh.dev/"
+languageCode = "en-us"
+title = "Ipse, dixit."
+theme="archie"
+copyright = "© arluqh"
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
+paginate=5 # articles per page
+
+[params]
+	mode="toggle" # color-mode → light,dark,toggle or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = "十月上旬派。各駅停車主義。"
+	customcss = ["css/general.css"]
+    favicon = ["images/favicon.png"]
+
+# Main menu Items
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+	
 [module]
     [[module.imports]]
         path = 'archie'

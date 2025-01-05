@@ -1,0 +1,10 @@
+:root{
+    --maincolor: rgb(255, 91, 41);
+    --bordercl:rebeccapurple;
+    --callouctcolor:dodgerblue;
+    --hovercolor:navy;
+    --darkMaincolor: #50fa7b;
+}
+p {
+    font-size: 12px;
+}
