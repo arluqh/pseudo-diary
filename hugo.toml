@@ -1,4 +1,4 @@
-baseURL = "https://blog.arluqh.dev/"
+baseURL = "https://blog.hirumeri.dev/"
 languageCode = "en-us"
 title = "Ipse, dixit."
 theme="archie"
@@ -15,7 +15,6 @@ paginate=5 # articles per page
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = "十月上旬派。各駅停車主義。"
 	customcss = ["css/general.css"]
-    favicon = ["images/favicon.png"]
 
 # Main menu Items
 
