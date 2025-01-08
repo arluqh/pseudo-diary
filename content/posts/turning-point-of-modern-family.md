@@ -1,6 +1,7 @@
 ---
 title: "落合恵美子『近代家族の曲がり角』（角川書店，平成十二年）"
 date: 2023-04-22T01:45:37+09:00
+description: "Quotes"
 draft: false
 ---
 
